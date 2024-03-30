@@ -1,4 +1,8 @@
 ### Hi there 👋
+----
+⚡️ Work on yourself, resist what you love and bear what you hate
+
+[![hello](https://img.shields.io/badge/keep%20on%20learning-8A2BE2)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=test&label=Profile%20Views&color=8&pretty=false)](https://visitcount.itsvg.in)
 
