@@ -16,13 +16,15 @@ As a generalist engineer and data engineer, I am passionate about applying data 
 - A folder with resources on various subjects in **Prépa**. Access it [here](https://drive.google.com/drive/folders/1_d47G07cCyQqOYHtb2aeB0YW1BWEXRvQ?usp=drive_link).
 
 ### App to Automate EDA (Exploratory Data Analysis)
-- A web application that automatically extracts insights and visualizations from your dataset.
+- A web application that automatically extracts insights and visualizations from your dataset. [Working on it ...]
 
 ---
 
 ## 🎓 My Best Academic Projects
 
-### Implementation of an Academic Paper
+### Heat Transfer Modeling in Human Body with Cysts
+- **Description**: This project focuses on modeling heat transfer in the human body in the presence of cysts. Using the Pennes equation and numerical methods, the study aims to enhance the understanding and detection of diseases like breast cancer.
+- **Link**: [GitHub Repository](https://github.com/Tariq2host/Heat-Transfer-Modeling-in-Human-Body-with-Cysts)
 
 ### Research Paper
 - **Title**: Reducing Carbon Footprint with Crowd-Logistics in Last Mile Delivery  
