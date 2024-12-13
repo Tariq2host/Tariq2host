@@ -18,6 +18,19 @@ As a generalist engineer and data engineer, I am passionate about applying data 
 ### App to Automate EDA (Exploratory Data Analysis)
 - A web application that automatically extracts insights and visualizations from your dataset. [Working on it ...]
 
+### App that analyse NBA players sucess 
+- A web application for NBA player success Analysis. [Working on it ...](https://github.com/Tariq2host/NBA-MP-data)
+
+### Building NLP algorithms from scratch
+- A personal project to build all important NLP algorithms from scratch [Working on it ...](https://github.com/Tariq2host/NLP_Algorithms_from_scratch)
+
+---
+
+## 🏆 My Certfications
+
+Here's a link to my all certifications : 
+- **Link**: [GitHub Repository](https://github.com/Tariq2host/Certifications)
+
 ---
 
 ## 🎓 My Best Academic Projects
