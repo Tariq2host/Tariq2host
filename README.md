@@ -17,6 +17,10 @@ As a generalist engineer and data scientist, I am passionate about applying data
 - A folder with resources on various subjects in **Prépa**.  
   👉 Access it [here](https://drive.google.com/drive/folders/1_d47G07cCyQqOYHtb2aeB0YW1BWEXRvQ?usp=drive_link).
 
+### ⚡ App where you can listen to podcasts on machine learning topics
+- A web application that give you the opportunity to listen to podcast on various ML topics (NLP, ComputerVision etc.)  
+  🚧 **[Currently in development...]**
+
 ### ⚡ App to Automate EDA (Exploratory Data Analysis)
 - A web application that automatically extracts insights and visualizations from your dataset.  
   🚧 **[Currently in development...]**
