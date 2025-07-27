@@ -3,8 +3,12 @@
 
 ## 🛠️ My Best Personal Projects
 
+### ⚡ A web site that has an ultimate destination to find the best free beginner-friendly to advanced resources on the web.
+- A notion web site that contain a lot of topics and ressources for learning.  
+  👉 Access it [here](https://auto-ai.notion.site/189652ab16ab80df923cf42364481daf?v=189652ab16ab804faeab000c2f83d5c5).  
+
 ### 📚 Prepa Resources
-- A document containing various tips from my own experience in **Prépa MPSI-MP**.  
+- A document containing various tips from my own journey in **Prépa MPSI-MP**.  
   👉 Access it [here](https://drive.google.com/drive/u/0/folders/1uGkgelaiPCpSbAPc4yr88ty0_zbTWSQU).  
 - A folder with resources on various subjects in **Prépa**.  
   👉 Access it [here](https://drive.google.com/drive/folders/1_d47G07cCyQqOYHtb2aeB0YW1BWEXRvQ?usp=drive_link).
