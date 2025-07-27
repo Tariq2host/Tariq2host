@@ -1,6 +1,5 @@
 # Hi there 👋  
 [![](https://visitcount.itsvg.in/api?id=test&label=Profile%20Views&color=8&pretty=false)](https://visitcount.itsvg.in)
----
 
 ## 🛠️ My Best Personal Projects
 
@@ -69,4 +68,3 @@ Here's a link to all my certifications:
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-chellali-518867174/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tariq.chellali/)
