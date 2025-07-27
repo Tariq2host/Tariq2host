@@ -1,12 +1,5 @@
 # Hi there 👋  
 [![](https://visitcount.itsvg.in/api?id=test&label=Profile%20Views&color=8&pretty=false)](https://visitcount.itsvg.in)
-
-My name is **Tariq CHELLALI**.  
-As a generalist engineer and data scientist, I am passionate about applying data science techniques and data engineering to solve complex problems. My educational journey at **École Centrale de Lyon** and **École Centrale de Casablanca**, where I earned my engineering degree, has been enriched by an international exchange program and a specialization in data engineering. With a global perspective and a strong interest in digital transformation, I am committed to contributing to innovative projects that will shape the future of Industry 4.0.
-
-## 💡 My Best Advice  
-*"Work on yourself, resist what you love, and bear what you hate."*
-
 ---
 
 ## 🛠️ My Best Personal Projects
